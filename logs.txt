@@ -1,0 +1,15 @@
+sleep 7 
+sleep
+sleep 5 
+sleep
+sleep 5 
+sleep
+reveal -l 
+hop ~ 
+mkdir test 
+hop test 
+hop .. 
+rmdir test 
+rmdir
+ls
+iMan search
